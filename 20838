@@ -1,0 +1,60 @@
+<!Doctype html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <title>Tecnologia</title>
+  <style>
+   * {
+    margin:0px;
+    padding:0px;
+    }
+    header{
+      background-color: blue;
+      text-align: center;
+    }
+   h1{
+     color: white;
+   }
+img#prog{
+    width: 100%;
+   }
+   h2{
+     color:black;
+     text-align: center;
+   }
+   div{
+     text-align: center;
+   }
+   p{
+     font-family: Arial;
+     font-size: 1em;
+     color:black;
+     text-align: justify;
+     text-indent:10px;
+     margin:6px;
+     border: 2px solid #2f71c9;
+     box-shadow: 10px 10px rgba(0,0,0,.1);
+     padding: 5px;
+     border-radius: 10px;
+   }
+  </style>
+</head>
+<body>
+  
+  <header>
+    <h1>sites modernos</h1>
+  </header>
+  <img src="prog.jpg"alt="programador"/ id="prog">
+  <h2>Discrição dos sites</h2>
+  <section id="facebook">
+    <div>
+    <img src="face.png"alt="facebook"/id="facebook">
+    </div>
+    <p>
+      o facebook é um site muito usado a nivel mundial e ele tem várias foncionalidas.Utilizamos o facebook para nos comunicarmos com anti-quiridos que estão perto ou distantes de nós.
+    </p>
+  </section>
+  
+    
+</body>
+</html>
